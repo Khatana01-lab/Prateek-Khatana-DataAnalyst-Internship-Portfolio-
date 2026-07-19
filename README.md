@@ -6,7 +6,7 @@ Welcome to my **Data Analyst Internship Portfolio**, developed during my interns
 
 ## 👨‍💻 About Me
 
-**Name:** Prashant Kumar  
+**Name:** Prateek Khatana 
 **Program:** B.Tech Computer Science (AI & ML)  
 **Role:** Data Analytics Intern  
 **Organization:** ApexPlanet Software Pvt. Ltd.
@@ -219,10 +219,9 @@ This internship provided practical exposure to the complete Data Analytics workf
 
 # 📬 Contact
 
-**Prashant Kumar**
+**Prateek Khatana**
 
-- GitHub: https://github.com/prashant23csu244
-- LinkedIn: https://www.linkedin.com/in/prashant-kumar-3b335b350/
+- GitHub: https://github.com/Khatana01-lab
 
 ---
 
